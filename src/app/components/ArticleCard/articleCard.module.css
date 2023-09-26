@@ -1,7 +1,8 @@
 .articleCard{
     display:flex; 
-    border: 5px solid pink;
-    background-color: azure;
+    border: 5px solid rgb(161, 48, 44);
+    border-radius: 50px;
+    background-color: rgb(240, 234, 211);
     gap: 20px;
     padding: 20px;
     margin-bottom: 30px;
@@ -21,5 +22,5 @@
 .articleCardImg img{
     width:100%;
     height:auto;
-
+    border-radius: 25px;
 }

@@ -1,7 +1,7 @@
 export default[
   {
     "id": "article-one",
-    "title": "Article One: First Fake Article",
+    "title": "Test run",
     "blurb": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
     "articleText": [
       {

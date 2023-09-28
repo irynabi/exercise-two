@@ -194,7 +194,7 @@ export default[
       }
     ],
     "image": {
-      "url": "https://media.tenor.com/FIlAXMHf8vsAAAAd/naruto-background.gif",
+      "url": "https://opengameart.org/sites/default/files/aaaaaaaaaaa01.gif",
       "alt": "A placeholder image"
     },
     "publishedDate": "Wed Aug 22 2019 17:04:38 GMT-0400"

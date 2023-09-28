@@ -1,3 +1,16 @@
+.articleCardButton{
+    display:flex; 
+    border: 2px solid rgb(255, 255, 255);
+    border-radius: 50px;
+    background-color: rgba(161, 48, 44, 0.367);
+    padding: 5px 10px;
+    margin-bottom: 30px;
+}
+
+.articleCardButton:hover{
+    background-color: rgb(161, 48, 44);
+}
+
 .articleCard{
     display:flex; 
     border: 5px solid rgb(161, 48, 44);
@@ -7,6 +20,9 @@
     padding: 20px;
     margin-bottom: 30px;
 
+}
+.articleCard:hover{
+    border: 8px solid rgb(161, 48, 44);
 }
 
 .articleCardContent{

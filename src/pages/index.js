@@ -3,7 +3,7 @@ import ArticleCard from "../app/components/ArticleCard";
 import styles from "../app/page.module.css";
 
 export default function Home() {
-  const projectName = "Exercise Two";
+  const projectName = "Exercise Two: Articles";
 
   return (
     <main className ={styles.page}>
